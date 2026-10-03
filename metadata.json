@@ -1,0 +1,8 @@
+{
+  "name": "Remix 3D Clay Curved Hero Widget",
+  "description": "An organic 3D claymorphic hero card widget with fluid curves, recessed carved image window, customizable depth, and full landing page integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
